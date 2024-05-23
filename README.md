@@ -11,6 +11,6 @@ Este repositório contém um programa que ao ser executado irá abrir um post al
 - Python 3.x instalado
 - Bibliotecas necessárias: random, instaloader, webbrowser, re, os, dotenv
 
-## To Do
+## Para fazer
 
 - Otimizar a parte de pegar um post aleatório
